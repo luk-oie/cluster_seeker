@@ -1,0 +1,762 @@
+LOCUS       NC_000019               3598 bp    DNA     linear   CON 16-MAY-2021
+DEFINITION  Homo sapiens chromosome 19, GRCh38.p13 Primary Assembly.
+ACCESSION   NC_000019 REGION: 44905796..44909393
+VERSION     NC_000019.10
+DBLINK      BioProject: PRJNA168
+            Assembly: GCF_000001405.39
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3598)
+  CONSRTM   International Human Genome Sequencing Consortium
+  TITLE     Finishing the euchromatic sequence of the human genome
+  JOURNAL   Nature 431 (7011), 931-945 (2004)
+   PUBMED   15496913
+REFERENCE   2  (bases 1 to 3598)
+  AUTHORS   Grimwood,J., Gordon,L.A., Olsen,A., Terry,A., Schmutz,J.,
+            Lamerdin,J., Hellsten,U., Goodstein,D., Couronne,O.,
+            Tran-Gyamfi,M., Aerts,A., Altherr,M., Ashworth,L., Bajorek,E.,
+            Black,S., Branscomb,E., Caenepeel,S., Carrano,A., Caoile,C.,
+            Chan,Y.M., Christensen,M., Cleland,C.A., Copeland,A., Dalin,E.,
+            Dehal,P., Denys,M., Detter,J.C., Escobar,J., Flowers,D.,
+            Fotopulos,D., Garcia,C., Georgescu,A.M., Glavina,T., Gomez,M.,
+            Gonzales,E., Groza,M., Hammon,N., Hawkins,T., Haydu,L., Ho,I.,
+            Huang,W., Israni,S., Jett,J., Kadner,K., Kimball,H., Kobayashi,A.,
+            Larionov,V., Leem,S.H., Lopez,F., Lou,Y., Lowry,S., Malfatti,S.,
+            Martinez,D., McCready,P., Medina,C., Morgan,J., Nelson,K.,
+            Nolan,M., Ovcharenko,I., Pitluck,S., Pollard,M., Popkie,A.P.,
+            Predki,P., Quan,G., Ramirez,L., Rash,S., Retterer,J., Rodriguez,A.,
+            Rogers,S., Salamov,A., Salazar,A., She,X., Smith,D., Slezak,T.,
+            Solovyev,V., Thayer,N., Tice,H., Tsai,M., Ustaszewska,A., Vo,N.,
+            Wagner,M., Wheeler,J., Wu,K., Xie,G., Yang,J., Dubchak,I.,
+            Furey,T.S., DeJong,P., Dickson,M., Gordon,D., Eichler,E.E.,
+            Pennacchio,L.A., Richardson,P., Stubbs,L., Rokhsar,D.S.,
+            Myers,R.M., Rubin,E.M. and Lucas,S.M.
+  TITLE     The DNA sequence and biology of human chromosome 19
+  JOURNAL   Nature 428 (6982), 529-535 (2004)
+   PUBMED   15057824
+REFERENCE   3  (bases 1 to 3598)
+  AUTHORS   Lander,E.S., Linton,L.M., Birren,B., Nusbaum,C., Zody,M.C.,
+            Baldwin,J., Devon,K., Dewar,K., Doyle,M., FitzHugh,W., Funke,R.,
+            Gage,D., Harris,K., Heaford,A., Howland,J., Kann,L., Lehoczky,J.,
+            LeVine,R., McEwan,P., McKernan,K., Meldrim,J., Mesirov,J.P.,
+            Miranda,C., Morris,W., Naylor,J., Raymond,C., Rosetti,M.,
+            Santos,R., Sheridan,A., Sougnez,C., Stange-Thomann,N.,
+            Stojanovic,N., Subramanian,A., Wyman,D., Rogers,J., Sulston,J.,
+            Ainscough,R., Beck,S., Bentley,D., Burton,J., Clee,C., Carter,N.,
+            Coulson,A., Deadman,R., Deloukas,P., Dunham,A., Dunham,I.,
+            Durbin,R., French,L., Grafham,D., Gregory,S., Hubbard,T.,
+            Humphray,S., Hunt,A., Jones,M., Lloyd,C., McMurray,A., Matthews,L.,
+            Mercer,S., Milne,S., Mullikin,J.C., Mungall,A., Plumb,R., Ross,M.,
+            Shownkeen,R., Sims,S., Waterston,R.H., Wilson,R.K., Hillier,L.W.,
+            McPherson,J.D., Marra,M.A., Mardis,E.R., Fulton,L.A.,
+            Chinwalla,A.T., Pepin,K.H., Gish,W.R., Chissoe,S.L., Wendl,M.C.,
+            Delehaunty,K.D., Miner,T.L., Delehaunty,A., Kramer,J.B., Cook,L.L.,
+            Fulton,R.S., Johnson,D.L., Minx,P.J., Clifton,S.W., Hawkins,T.,
+            Branscomb,E., Predki,P., Richardson,P., Wenning,S., Slezak,T.,
+            Doggett,N., Cheng,J.F., Olsen,A., Lucas,S., Elkin,C.,
+            Uberbacher,E., Frazier,M., Gibbs,R.A., Muzny,D.M., Scherer,S.E.,
+            Bouck,J.B., Sodergren,E.J., Worley,K.C., Rives,C.M., Gorrell,J.H.,
+            Metzker,M.L., Naylor,S.L., Kucherlapati,R.S., Nelson,D.L.,
+            Weinstock,G.M., Sakaki,Y., Fujiyama,A., Hattori,M., Yada,T.,
+            Toyoda,A., Itoh,T., Kawagoe,C., Watanabe,H., Totoki,Y., Taylor,T.,
+            Weissenbach,J., Heilig,R., Saurin,W., Artiguenave,F., Brottier,P.,
+            Bruls,T., Pelletier,E., Robert,C., Wincker,P., Smith,D.R.,
+            Doucette-Stamm,L., Rubenfield,M., Weinstock,K., Lee,H.M.,
+            Dubois,J., Rosenthal,A., Platzer,M., Nyakatura,G., Taudien,S.,
+            Rump,A., Yang,H., Yu,J., Wang,J., Huang,G., Gu,J., Hood,L.,
+            Rowen,L., Madan,A., Qin,S., Davis,R.W., Federspiel,N.A.,
+            Abola,A.P., Proctor,M.J., Myers,R.M., Schmutz,J., Dickson,M.,
+            Grimwood,J., Cox,D.R., Olson,M.V., Kaul,R., Raymond,C., Shimizu,N.,
+            Kawasaki,K., Minoshima,S., Evans,G.A., Athanasiou,M., Schultz,R.,
+            Roe,B.A., Chen,F., Pan,H., Ramser,J., Lehrach,H., Reinhardt,R.,
+            McCombie,W.R., de la Bastide,M., Dedhia,N., Blocker,H.,
+            Hornischer,K., Nordsiek,G., Agarwala,R., Aravind,L., Bailey,J.A.,
+            Bateman,A., Batzoglou,S., Birney,E., Bork,P., Brown,D.G.,
+            Burge,C.B., Cerutti,L., Chen,H.C., Church,D., Clamp,M.,
+            Copley,R.R., Doerks,T., Eddy,S.R., Eichler,E.E., Furey,T.S.,
+            Galagan,J., Gilbert,J.G., Harmon,C., Hayashizaki,Y., Haussler,D.,
+            Hermjakob,H., Hokamp,K., Jang,W., Johnson,L.S., Jones,T.A.,
+            Kasif,S., Kaspryzk,A., Kennedy,S., Kent,W.J., Kitts,P.,
+            Koonin,E.V., Korf,I., Kulp,D., Lancet,D., Lowe,T.M., McLysaght,A.,
+            Mikkelsen,T., Moran,J.V., Mulder,N., Pollara,V.J., Ponting,C.P.,
+            Schuler,G., Schultz,J., Slater,G., Smit,A.F., Stupka,E.,
+            Szustakowski,J., Thierry-Mieg,D., Thierry-Mieg,J., Wagner,L.,
+            Wallis,J., Wheeler,R., Williams,A., Wolf,Y.I., Wolfe,K.H.,
+            Yang,S.P., Yeh,R.F., Collins,F., Guyer,M.S., Peterson,J.,
+            Felsenfeld,A., Wetterstrand,K.A., Patrinos,A., Morgan,M.J., de
+            Jong,P., Catanese,J.J., Osoegawa,K., Shizuya,H., Choi,S. and
+            Chen,Y.J.
+  CONSRTM   International Human Genome Sequencing Consortium
+  TITLE     Initial sequencing and analysis of the human genome
+  JOURNAL   Nature 409 (6822), 860-921 (2001)
+   PUBMED   11237011
+  REMARK    Erratum:[Nature 2001 Aug 2;412(6846):565]
+COMMENT     REFSEQ INFORMATION: The reference sequence is identical to
+            CM000681.2.
+            On Feb 3, 2014 this sequence version replaced NC_000019.9.
+            Assembly Name: GRCh38.p13 Primary Assembly
+            The DNA sequence is composed of genomic sequence, primarily
+            finished clones that were sequenced as part of the Human Genome
+            Project. PCR products and WGS shotgun sequence have been added
+            where necessary to fill gaps or correct errors. All such additions
+            are manually curated by GRC staff. For more information see:
+            https://genomereference.org.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Updated annotation
+            Annotation Name             :: Homo sapiens Updated Annotation
+                                           Release 109.20210514
+            Annotation Version          :: 109.20210514
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.6
+            Annotation Method           :: Best-placed RefSeq; propagated
+                                           RefSeq model
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..3598
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="19"
+     gene            1..3598
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="apolipoprotein E; Derived by automated
+                     computational analysis using gene prediction method:
+                     BestRefSeq."
+                     /db_xref="GeneID:348"
+                     /db_xref="HGNC:HGNC:613"
+                     /db_xref="MIM:107741"
+     mRNA            join(1..128,807..872,1965..2157,2738..3598)
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /product="apolipoprotein E, transcript variant 1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001302688.2"
+                     /db_xref="GeneID:348"
+                     /db_xref="HGNC:HGNC:613"
+                     /db_xref="MIM:107741"
+     mRNA            join(1..46,792..872,1965..2157,2738..3598)
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /product="apolipoprotein E, transcript variant 5"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001302691.2"
+                     /db_xref="GeneID:348"
+                     /db_xref="HGNC:HGNC:613"
+                     /db_xref="MIM:107741"
+     mRNA            join(1..46,807..872,1965..2157,2738..3598)
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /product="apolipoprotein E, transcript variant 2"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_000041.4"
+                     /db_xref="Ensembl:ENST00000252486.9"
+                     /db_xref="GeneID:348"
+                     /db_xref="HGNC:HGNC:613"
+                     /db_xref="MIM:107741"
+     CDS             join(74..128,807..872,1965..2157,2738..3455)
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="isoform a precursor is encoded by transcript
+                     variant 1; Derived by automated computational analysis
+                     using gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="apolipoprotein E isoform a precursor"
+                     /protein_id="NP_001289617.1"
+                     /db_xref="GeneID:348"
+                     /db_xref="HGNC:HGNC:613"
+                     /db_xref="MIM:107741"
+                     /translation="MSSGASRKSWDPGNPWPPDWPITGRKMKVLWAALLVTFLAGCQA
+                     KVEQAVETEPEPELRQQTEWQSGQRWELALGRFWDYLRWVQTLSEQVQEELLSSQVTQ
+                     ELRALMDETMKELKAYKSELEEQLTPVAEETRARLSKELQAAQARLGADMEDVCGRLV
+                     QYRGEVQAMLGQSTEELRVRLASHLRKLRKRLLRDADDLQKRLAVYQAGAREGAERGL
+                     SAIRERLGPLVEQGRVRAATVGSLAGQPLQERAQAWGERLRARMEEMGSRTRDRLDEV
+                     KEQVAEVRAKLEEQAQQIRLQAEAFQARLKSWFEPLVEDMQRQWAGLVEKVQAAVGTS
+                     AAPVPSDNH"
+     sig_peptide     join(74..128,807..872,1965..1975)
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     mRNA            join(226..249,807..872,1965..2157,2738..3598)
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /product="apolipoprotein E, transcript variant 3"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001302689.2"
+                     /db_xref="GeneID:348"
+                     /db_xref="HGNC:HGNC:613"
+                     /db_xref="MIM:107741"
+     mRNA            join(606..729,807..872,1965..2157,2738..3598)
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /product="apolipoprotein E, transcript variant 4"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001302690.2"
+                     /db_xref="GeneID:348"
+                     /db_xref="HGNC:HGNC:613"
+                     /db_xref="MIM:107741"
+     CDS             join(830..872,1965..2157,2738..3455)
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="isoform b precursor is encoded by transcript
+                     variant 2; Derived by automated computational analysis
+                     using gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="apolipoprotein E isoform b precursor"
+                     /protein_id="NP_000032.1"
+                     /db_xref="CCDS:CCDS12647.1"
+                     /db_xref="Ensembl:ENSP00000252486.3"
+                     /db_xref="GeneID:348"
+                     /db_xref="HGNC:HGNC:613"
+                     /db_xref="MIM:107741"
+                     /translation="MKVLWAALLVTFLAGCQAKVEQAVETEPEPELRQQTEWQSGQRW
+                     ELALGRFWDYLRWVQTLSEQVQEELLSSQVTQELRALMDETMKELKAYKSELEEQLTP
+                     VAEETRARLSKELQAAQARLGADMEDVCGRLVQYRGEVQAMLGQSTEELRVRLASHLR
+                     KLRKRLLRDADDLQKRLAVYQAGAREGAERGLSAIRERLGPLVEQGRVRAATVGSLAG
+                     QPLQERAQAWGERLRARMEEMGSRTRDRLDEVKEQVAEVRAKLEEQAQQIRLQAEAFQ
+                     ARLKSWFEPLVEDMQRQWAGLVEKVQAAVGTSAAPVPSDNH"
+     sig_peptide     join(830..872,1965..1975)
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     mat_peptide     join(1976..2157,2738..3452)
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /product="Apolipoprotein E. /id=PRO_0000001987"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1)"
+     misc_feature    1997..1999
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) threonine.
+                     /evidence=ECO:0000269|PubMed:23234360; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    2027..2029
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) threonine.
+                     /evidence=ECO:0000269|PubMed:23234360; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    2739..3266
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: 8 X 22 AA approximate tandem repeats"
+     misc_feature    2778..2780
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="N-linked (Glc) (glycation) lysine.
+                     /evidence=ECO:0000269|PubMed:10452964; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    2940..2942
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="Phosphoserine, by FAM20C.
+                     /evidence=ECO:0000269|PubMed:26091039,
+                     ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); phosphorylation site"
+     misc_feature    2973..3005
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: LDL and other lipoprotein receptors binding.
+                     /evidence=ECO:0000269|PubMed:20030366,
+                     ECO:0000269|PubMed:2063194"
+     misc_feature    2985..2996
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: Heparin-binding.
+                     /evidence=ECO:0000269|PubMed:3947350"
+     misc_feature    3129..3371
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: Lipid-binding and lipoprotein association.
+                     /evidence=ECO:0000269|PubMed:2280190,
+                     ECO:0000269|PubMed:8071364"
+     misc_feature    3135..3137
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) threonine.
+                     /evidence=ECO:0000269|PubMed:19838169,
+                     ECO:0000269|PubMed:2498325; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    3186..3209
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: Heparin-binding.
+                     /evidence=ECO:0000269|PubMed:3947350"
+     misc_feature    3297..3452
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: Homooligomerization.
+                     /evidence=ECO:0000269|PubMed:8340399"
+     misc_feature    3333..3371
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: Specificity for association with VLDL.
+                     /evidence=ECO:0000269|PubMed:8071364"
+     misc_feature    3420..3422
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) threonine.
+                     /evidence=ECO:0000269|PubMed:19838169; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    3423..3425
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) serine.
+                     /evidence=ECO:0000269|PubMed:19838169,
+                     ECO:0000269|PubMed:20511397; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    3441..3443
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) serine.
+                     /evidence=ECO:0000269|PubMed:23234360; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     CDS             join(830..872,1965..2157,2738..3455)
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="isoform b precursor is encoded by transcript
+                     variant 3; Derived by automated computational analysis
+                     using gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="apolipoprotein E isoform b precursor"
+                     /protein_id="NP_001289618.1"
+                     /db_xref="CCDS:CCDS12647.1"
+                     /db_xref="GeneID:348"
+                     /db_xref="HGNC:HGNC:613"
+                     /db_xref="MIM:107741"
+                     /translation="MKVLWAALLVTFLAGCQAKVEQAVETEPEPELRQQTEWQSGQRW
+                     ELALGRFWDYLRWVQTLSEQVQEELLSSQVTQELRALMDETMKELKAYKSELEEQLTP
+                     VAEETRARLSKELQAAQARLGADMEDVCGRLVQYRGEVQAMLGQSTEELRVRLASHLR
+                     KLRKRLLRDADDLQKRLAVYQAGAREGAERGLSAIRERLGPLVEQGRVRAATVGSLAG
+                     QPLQERAQAWGERLRARMEEMGSRTRDRLDEVKEQVAEVRAKLEEQAQQIRLQAEAFQ
+                     ARLKSWFEPLVEDMQRQWAGLVEKVQAAVGTSAAPVPSDNH"
+     sig_peptide     join(830..872,1965..1975)
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     mat_peptide     join(1976..2157,2738..3452)
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /product="Apolipoprotein E. /id=PRO_0000001987"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1)"
+     misc_feature    1997..1999
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) threonine.
+                     /evidence=ECO:0000269|PubMed:23234360; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    2027..2029
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) threonine.
+                     /evidence=ECO:0000269|PubMed:23234360; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    2739..3266
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: 8 X 22 AA approximate tandem repeats"
+     misc_feature    2778..2780
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="N-linked (Glc) (glycation) lysine.
+                     /evidence=ECO:0000269|PubMed:10452964; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    2940..2942
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="Phosphoserine, by FAM20C.
+                     /evidence=ECO:0000269|PubMed:26091039,
+                     ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); phosphorylation site"
+     misc_feature    2973..3005
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: LDL and other lipoprotein receptors binding.
+                     /evidence=ECO:0000269|PubMed:20030366,
+                     ECO:0000269|PubMed:2063194"
+     misc_feature    2985..2996
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: Heparin-binding.
+                     /evidence=ECO:0000269|PubMed:3947350"
+     misc_feature    3129..3371
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: Lipid-binding and lipoprotein association.
+                     /evidence=ECO:0000269|PubMed:2280190,
+                     ECO:0000269|PubMed:8071364"
+     misc_feature    3135..3137
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) threonine.
+                     /evidence=ECO:0000269|PubMed:19838169,
+                     ECO:0000269|PubMed:2498325; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    3186..3209
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: Heparin-binding.
+                     /evidence=ECO:0000269|PubMed:3947350"
+     misc_feature    3297..3452
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: Homooligomerization.
+                     /evidence=ECO:0000269|PubMed:8340399"
+     misc_feature    3333..3371
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: Specificity for association with VLDL.
+                     /evidence=ECO:0000269|PubMed:8071364"
+     misc_feature    3420..3422
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) threonine.
+                     /evidence=ECO:0000269|PubMed:19838169; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    3423..3425
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) serine.
+                     /evidence=ECO:0000269|PubMed:19838169,
+                     ECO:0000269|PubMed:20511397; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    3441..3443
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) serine.
+                     /evidence=ECO:0000269|PubMed:23234360; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     CDS             join(830..872,1965..2157,2738..3455)
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="isoform b precursor is encoded by transcript
+                     variant 4; Derived by automated computational analysis
+                     using gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="apolipoprotein E isoform b precursor"
+                     /protein_id="NP_001289619.1"
+                     /db_xref="CCDS:CCDS12647.1"
+                     /db_xref="GeneID:348"
+                     /db_xref="HGNC:HGNC:613"
+                     /db_xref="MIM:107741"
+                     /translation="MKVLWAALLVTFLAGCQAKVEQAVETEPEPELRQQTEWQSGQRW
+                     ELALGRFWDYLRWVQTLSEQVQEELLSSQVTQELRALMDETMKELKAYKSELEEQLTP
+                     VAEETRARLSKELQAAQARLGADMEDVCGRLVQYRGEVQAMLGQSTEELRVRLASHLR
+                     KLRKRLLRDADDLQKRLAVYQAGAREGAERGLSAIRERLGPLVEQGRVRAATVGSLAG
+                     QPLQERAQAWGERLRARMEEMGSRTRDRLDEVKEQVAEVRAKLEEQAQQIRLQAEAFQ
+                     ARLKSWFEPLVEDMQRQWAGLVEKVQAAVGTSAAPVPSDNH"
+     sig_peptide     join(830..872,1965..1975)
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     mat_peptide     join(1976..2157,2738..3452)
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /product="Apolipoprotein E. /id=PRO_0000001987"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1)"
+     misc_feature    1997..1999
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) threonine.
+                     /evidence=ECO:0000269|PubMed:23234360; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    2027..2029
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) threonine.
+                     /evidence=ECO:0000269|PubMed:23234360; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    2739..3266
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: 8 X 22 AA approximate tandem repeats"
+     misc_feature    2778..2780
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="N-linked (Glc) (glycation) lysine.
+                     /evidence=ECO:0000269|PubMed:10452964; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    2940..2942
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="Phosphoserine, by FAM20C.
+                     /evidence=ECO:0000269|PubMed:26091039,
+                     ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); phosphorylation site"
+     misc_feature    2973..3005
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: LDL and other lipoprotein receptors binding.
+                     /evidence=ECO:0000269|PubMed:20030366,
+                     ECO:0000269|PubMed:2063194"
+     misc_feature    2985..2996
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: Heparin-binding.
+                     /evidence=ECO:0000269|PubMed:3947350"
+     misc_feature    3129..3371
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: Lipid-binding and lipoprotein association.
+                     /evidence=ECO:0000269|PubMed:2280190,
+                     ECO:0000269|PubMed:8071364"
+     misc_feature    3135..3137
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) threonine.
+                     /evidence=ECO:0000269|PubMed:19838169,
+                     ECO:0000269|PubMed:2498325; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    3186..3209
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: Heparin-binding.
+                     /evidence=ECO:0000269|PubMed:3947350"
+     misc_feature    3297..3452
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: Homooligomerization.
+                     /evidence=ECO:0000269|PubMed:8340399"
+     misc_feature    3333..3371
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: Specificity for association with VLDL.
+                     /evidence=ECO:0000269|PubMed:8071364"
+     misc_feature    3420..3422
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) threonine.
+                     /evidence=ECO:0000269|PubMed:19838169; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    3423..3425
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) serine.
+                     /evidence=ECO:0000269|PubMed:19838169,
+                     ECO:0000269|PubMed:20511397; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    3441..3443
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) serine.
+                     /evidence=ECO:0000269|PubMed:23234360; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     CDS             join(830..872,1965..2157,2738..3455)
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="isoform b precursor is encoded by transcript
+                     variant 5; Derived by automated computational analysis
+                     using gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="apolipoprotein E isoform b precursor"
+                     /protein_id="NP_001289620.1"
+                     /db_xref="CCDS:CCDS12647.1"
+                     /db_xref="GeneID:348"
+                     /db_xref="HGNC:HGNC:613"
+                     /db_xref="MIM:107741"
+                     /translation="MKVLWAALLVTFLAGCQAKVEQAVETEPEPELRQQTEWQSGQRW
+                     ELALGRFWDYLRWVQTLSEQVQEELLSSQVTQELRALMDETMKELKAYKSELEEQLTP
+                     VAEETRARLSKELQAAQARLGADMEDVCGRLVQYRGEVQAMLGQSTEELRVRLASHLR
+                     KLRKRLLRDADDLQKRLAVYQAGAREGAERGLSAIRERLGPLVEQGRVRAATVGSLAG
+                     QPLQERAQAWGERLRARMEEMGSRTRDRLDEVKEQVAEVRAKLEEQAQQIRLQAEAFQ
+                     ARLKSWFEPLVEDMQRQWAGLVEKVQAAVGTSAAPVPSDNH"
+     sig_peptide     join(830..872,1965..1975)
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     mat_peptide     join(1976..2157,2738..3452)
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /product="Apolipoprotein E. /id=PRO_0000001987"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1)"
+     misc_feature    1997..1999
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) threonine.
+                     /evidence=ECO:0000269|PubMed:23234360; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    2027..2029
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) threonine.
+                     /evidence=ECO:0000269|PubMed:23234360; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    2739..3266
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: 8 X 22 AA approximate tandem repeats"
+     misc_feature    2778..2780
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="N-linked (Glc) (glycation) lysine.
+                     /evidence=ECO:0000269|PubMed:10452964; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    2940..2942
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="Phosphoserine, by FAM20C.
+                     /evidence=ECO:0000269|PubMed:26091039,
+                     ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); phosphorylation site"
+     misc_feature    2973..3005
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: LDL and other lipoprotein receptors binding.
+                     /evidence=ECO:0000269|PubMed:20030366,
+                     ECO:0000269|PubMed:2063194"
+     misc_feature    2985..2996
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: Heparin-binding.
+                     /evidence=ECO:0000269|PubMed:3947350"
+     misc_feature    3129..3371
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: Lipid-binding and lipoprotein association.
+                     /evidence=ECO:0000269|PubMed:2280190,
+                     ECO:0000269|PubMed:8071364"
+     misc_feature    3135..3137
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) threonine.
+                     /evidence=ECO:0000269|PubMed:19838169,
+                     ECO:0000269|PubMed:2498325; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    3186..3209
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: Heparin-binding.
+                     /evidence=ECO:0000269|PubMed:3947350"
+     misc_feature    3297..3452
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: Homooligomerization.
+                     /evidence=ECO:0000269|PubMed:8340399"
+     misc_feature    3333..3371
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: Specificity for association with VLDL.
+                     /evidence=ECO:0000269|PubMed:8071364"
+     misc_feature    3420..3422
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) threonine.
+                     /evidence=ECO:0000269|PubMed:19838169; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    3423..3425
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) serine.
+                     /evidence=ECO:0000269|PubMed:19838169,
+                     ECO:0000269|PubMed:20511397; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    3441..3443
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) serine.
+                     /evidence=ECO:0000269|PubMed:23234360; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+ORIGIN      
+        1 ctactcagcc ccagcggagg tgaaggacgt ccttccccag gagccggtga gaagcgcagt
+       61 cgggggcacg gggatgagct caggggcctc tagaaagagc tgggaccctg ggaacccctg
+      121 gcctccaggt agtctcagga gagctactcg gggtcgggct tggggagagg aggagcgggg
+      181 gtgaggcaag cagcagggga ctggacctgg gaagggctgg gcagcagaga cgacccgacc
+      241 cgctagaagg tggggtgggg agagcagctg gactgggatg taagccatag caggactcca
+      301 cgagttgtca ctatcattta tcgagcacct actgggtgtc cccagtgtcc tcagatctcc
+      361 ataactgggg agccaggggc agcgacacgg tagctagccg tcgattggag aactttaaaa
+      421 tgaggactga attagctcat aaatggaaca cggcgcttaa ctgtgaggtt ggagcttaga
+      481 atgtgaaggg agaatgagga atgcgagact gggactgaga tggaaccggc ggtggggagg
+      541 gggtgggggg atggaatttg aaccccggga gaggaagatg gaattttcta tggaggccga
+      601 cctggggatg gggagataag agaagaccag gagggagtta aatagggaat gggttggggg
+      661 cggcttggta aatgtgctgg gattaggctg ttgcagataa tgcaacaagg cttggaaggc
+      721 taacctgggg tgaggccggg ttggggccgg gctgggggtg ggaggagtcc tcactggcgg
+      781 ttgattgaca gtttctcctt ccccagactg gccaatcaca ggcaggaaga tgaaggttct
+      841 gtgggctgcg ttgctggtca cattcctggc aggtatgggg gcggggcttg ctcggttccc
+      901 cccgctcctc cccctctcat cctcacctca acctcctggc cccattcagg cagaccctgg
+      961 gccccctctt ctgaggcttc tgtgctgctt cctggctctg aacagcgatt tgacgctctc
+     1021 tgggcctcgg tttcccccat ccttgagata ggagttagaa gttgttttgt tgttgttgtt
+     1081 tgttgttgtt gttttgtttt tttgagatga agtctcgctc tgtcgcccag gctggagtgc
+     1141 agtggcggga tctcggctca ctgcaagctc cgcctcccag gtccacgcca ttctcctgcc
+     1201 tcagcctccc aagtagctgg gactacaggc acatgccacc acacccgact aacttttttg
+     1261 tattttcagt agagacgggg tttcaccatg ttggccaggc tggtctggaa ctcctgacct
+     1321 caggtgatct gcccgtttcg atctcccaaa gtgctgggat tacaggcgtg agccaccgca
+     1381 cctggctggg agttagaggt ttctaatgca ttgcaggcag atagtgaata ccagacacgg
+     1441 ggcagctgtg atctttattc tccatcaccc ccacacagcc ctgcctgggg cacacaagga
+     1501 cactcaatac atgcttttcc gctgggcgcg gtggctcacc cctgtaatcc cagcactttg
+     1561 ggaggccaag gtgggaggat cacttgagcc caggagttca acaccagcct gggcaacata
+     1621 gtgagaccct gtctctacta aaaatacaaa aattagccag gcatggtgcc acacacctgt
+     1681 gctctcagct actcaggagg ctgaggcagg aggatcgctt gagcccagaa ggtcaaggtt
+     1741 gcagtgaacc atgttcaggc cgctgcactc cagcctgggt gacagagcaa gaccctgttt
+     1801 ataaatacat aatgctttcc aagtgattaa accgactccc ccctcaccct gcccaccatg
+     1861 gctccaaaga agcatttgtg gagcaccttc tgtgtgcccc taggtactag atgcctggac
+     1921 ggggtcagaa ggaccctgac ccaccttgaa cttgttccac acaggatgcc aggccaaggt
+     1981 ggagcaagcg gtggagacag agccggagcc cgagctgcgc cagcagaccg agtggcagag
+     2041 cggccagcgc tgggaactgg cactgggtcg cttttgggat tacctgcgct gggtgcagac
+     2101 actgtctgag caggtgcagg aggagctgct cagctcccag gtcacccagg aactgaggtg
+     2161 agtgtcccca tcctggccct tgaccctcct ggtgggcggc tatacctccc caggtccagg
+     2221 tttcattctg cccctgtcgc taagtcttgg ggggcctggg tctctgctgg ttctagcttc
+     2281 ctcttcccat ttctgactcc tggctttagc tctctggaat tctctctctc agctttgtct
+     2341 ctctctcttc ccttctgact cagtctctca cactcgtcct ggctctgtct ctgtccttcc
+     2401 ctagctcttt tatatagaga cagagagatg gggtctcact gtgttgccca ggctggtctt
+     2461 gaacttctgg gctcaagcga tcctcccgcc tcggcctccc aaagtgctgg gattagaggc
+     2521 atgagccacc ttgcccggcc tcctagctcc ttcttcgtct ctgcctctgc cctctgcatc
+     2581 tgctctctgc atctgtctct gtctccttct ctcggcctct gccccgttcc ttctctccct
+     2641 cttgggtctc tctggctcat ccccatctcg cccgccccat cccagccctt ctccccgcct
+     2701 cccactgtgc gacaccctcc cgccctctcg gccgcagggc gctgatggac gagaccatga
+     2761 aggagttgaa ggcctacaaa tcggaactgg aggaacaact gaccccggtg gcggaggaga
+     2821 cgcgggcacg gctgtccaag gagctgcagg cggcgcaggc ccggctgggc gcggacatgg
+     2881 aggacgtgtg cggccgcctg gtgcagtacc gcggcgaggt gcaggccatg ctcggccaga
+     2941 gcaccgagga gctgcgggtg cgcctcgcct cccacctgcg caagctgcgt aagcggctcc
+     3001 tccgcgatgc cgatgacctg cagaagcgcc tggcagtgta ccaggccggg gcccgcgagg
+     3061 gcgccgagcg cggcctcagc gccatccgcg agcgcctggg gcccctggtg gaacagggcc
+     3121 gcgtgcgggc cgccactgtg ggctccctgg ccggccagcc gctacaggag cgggcccagg
+     3181 cctggggcga gcggctgcgc gcgcggatgg aggagatggg cagccggacc cgcgaccgcc
+     3241 tggacgaggt gaaggagcag gtggcggagg tgcgcgccaa gctggaggag caggcccagc
+     3301 agatacgcct gcaggccgag gccttccagg cccgcctcaa gagctggttc gagcccctgg
+     3361 tggaagacat gcagcgccag tgggccgggc tggtggagaa ggtgcaggct gccgtgggca
+     3421 ccagcgccgc ccctgtgccc agcgacaatc actgaacgcc gaagcctgca gccatgcgac
+     3481 cccacgccac cccgtgcctc ctgcctccgc gcagcctgca gcgggagacc ctgtccccgc
+     3541 cccagccgtc ctcctggggt ggaccctagt ttaataaaga ttcaccaagt ttcacgca
+//
+

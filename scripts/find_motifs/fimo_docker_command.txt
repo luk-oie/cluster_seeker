@@ -1,0 +1,1 @@
+docker run -v D:\Dev\cluster_seeker\fimo_test:/home/meme memesuite/memesuite fimo TCF7L2.meme atg5.fasta
